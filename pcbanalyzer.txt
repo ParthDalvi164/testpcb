@@ -1,0 +1,17 @@
+git clone "url"
+git init
+git status
+git log
+git add (filename or .)
+git restore (filename)
+git restore --staged (filenane)
+git commit -m "message"
+git remote -v
+git push origin master
+git log --oneline --decorate
+git branch (branchname)
+git checkout (branch)
+git merge (branchname)
+
+docker pull docker/whalesay
+docker run docker/whalesay cowsay hello
